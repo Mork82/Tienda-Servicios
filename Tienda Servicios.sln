@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.Autor",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.Libro", "TiendaServicios.Api.Libro\TiendaServicios.Api.Libro.csproj", "{59DE2A60-9395-42B1-89C9-E11253BF4109}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.CarritoCompra", "TiendaServicios.Api.CarritoCompra\TiendaServicios.Api.CarritoCompra.csproj", "{AC7A9EEF-7EAA-438E-BA36-FAD2B1AB1C46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.CarritoCompra", "TiendaServicios.Api.CarritoCompra\TiendaServicios.Api.CarritoCompra.csproj", "{D6F68BCD-B593-46AA-A08B-8B465B8936BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{59DE2A60-9395-42B1-89C9-E11253BF4109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59DE2A60-9395-42B1-89C9-E11253BF4109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59DE2A60-9395-42B1-89C9-E11253BF4109}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC7A9EEF-7EAA-438E-BA36-FAD2B1AB1C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC7A9EEF-7EAA-438E-BA36-FAD2B1AB1C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC7A9EEF-7EAA-438E-BA36-FAD2B1AB1C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC7A9EEF-7EAA-438E-BA36-FAD2B1AB1C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F68BCD-B593-46AA-A08B-8B465B8936BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F68BCD-B593-46AA-A08B-8B465B8936BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F68BCD-B593-46AA-A08B-8B465B8936BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F68BCD-B593-46AA-A08B-8B465B8936BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
